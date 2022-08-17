@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Foods
+
+  Created by Damjan on 16.08.2022.
+  
+*/
+
+"Foods_Title" = "Foods";
+"Loading" = "Loading";
+"Ok" = "Ok";
+"Search_foods" = "Search foods";
